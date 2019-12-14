@@ -1,0 +1,7 @@
+.tat_den:before{content: "☼";}
+.them_vao_hop:before{content: "✚";}
+.luot_thich:before{content: "✚";}
+.binh_luan:before{content: "✎";}
+.bao_loi:before{content: "✘";}
+.share_facebook:before{content: "➝";}
+.tat_den:before, .them_vao_hop:before, .luot_thich:before, .binh_luan:before, .bao_loi:before, .share_facebook:before{margin-right: 5px;}
